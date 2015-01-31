@@ -7,11 +7,11 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   ignore:
-    - *.yml
+    - _config.yml
     - site.*
     - *.rss
     - gemfile
-    - .*
+    - .gitignore
   metadata:
     _posts:
       - name: "category"
