@@ -4,8 +4,10 @@ category: blog
 published: true
 title: nouvelle page
 tags: 
+  - bananas
   - pears
-splash: "/media/grand-galop-cheval-1920x1080.jpg"
+  - mangos
+splash: "http://www.wallstock.fr/albums/animaux/grand-galop-cheval-1920x1080.jpg"
 ---
 
 ## A New Post sure ?
