@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: test page
-permalink: /test
+permalink: /test/
 ---
 
 ## A New Post
