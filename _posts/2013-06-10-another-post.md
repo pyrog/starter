@@ -2,8 +2,8 @@
 layout: blog
 category: blog
 published: true
-splash: "http://placehold.it/1600x500"
-title: "pas de titre ?"
+splash: "http://www.closdusaulnois.fr/wp-content/uploads/2014/03/clos-du-saulnois-slide1.jpg"
+title: Splash jument
 tags: 
   - apples
   - bananas
