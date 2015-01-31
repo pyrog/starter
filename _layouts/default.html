@@ -25,7 +25,9 @@ title: 'This is my Site Title'
         </div>
       </div>
     </div>
-    {{content}}
+    {% capture src %}<img src="/{% endcapture %}
+    {% capture dst %}<img src="{{site.baseurl}}/{% endcapture %}
+    {{content | replace: src,dst }}
   </div>
   <script src='{{site.baseurl}}/site.js'></script>
 </body>
