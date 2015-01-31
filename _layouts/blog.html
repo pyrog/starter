@@ -21,9 +21,7 @@ section: blog
   </div>
 
   <div class='prose'>
-    {% capture src %}<img src="/{% endcapture %}
-    {% capture dst %}<img src="{{site.baseurl}}/{% endcapture %}
-    {{content | replace: src,dst }}
+    {{content}}
   </div>
 </div>
 
