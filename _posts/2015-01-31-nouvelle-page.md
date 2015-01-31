@@ -5,9 +5,9 @@ published: true
 title: nouvelle page
 tags: 
   - pears
+splash: "grand-galop-cheval-1920x1080.jpg"
 ---
 
-![grand-galop-cheval-1920x1080.jpg](/media/grand-galop-cheval-1920x1080.jpg)
 ## A New Post sure ?
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
