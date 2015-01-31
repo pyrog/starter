@@ -21,7 +21,7 @@ section: blog
   </div>
 
   <div class='prose'>
-    {% assign dst = '<img src="/' | append site.baseurl | append '/starter/' %}
+    {% assign dst = '<img src="/' | append: site.baseurl | append: '/starter/' %}
     {{content | replace: '<img src="/',dst }}
   </div>
 </div>
