@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: true
-title: titre de ma page
+title: ""
 tags: 
   - bananas
   - apple
