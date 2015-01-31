@@ -21,8 +21,9 @@ section: blog
   </div>
 
   <div class='prose'>
-    {% assign dst = '<img src="' | append: site.baseurl | append: '/' %}
-    {{content | replace: '<img src="/',dst }}
+    {% capture src %}<img src="/{% endcapture %}
+    {% capture dst %}<img src="{{site.baseurl}}/{% endcapture %}
+    {{content | replace: src,dst }}
   </div>
 </div>
 
