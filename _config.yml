@@ -9,7 +9,7 @@ prose:
   ignore:
     - _config.yml
     - site.*
-    - *.rss
+    - blog.rss
     - gemfile
     - .gitignore
   metadata:
