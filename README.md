@@ -6,4 +6,4 @@ To work on the site locally, run `jekyll serve --watch`, then visit `http://loca
 If you notice any problems or would like to contribute to the project start a discussion from the [issues page](https://github.com/prose/starter/issues)
 
 
-![250hz_low_pass.png](/250hz_low_pass.png)
+![250hz_low_pass.png](/media/250hz_low_pass.png)
