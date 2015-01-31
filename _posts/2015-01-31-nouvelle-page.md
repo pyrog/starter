@@ -5,7 +5,7 @@ published: true
 title: nouvelle page
 tags: 
   - pears
-splash: "grand-galop-cheval-1920x1080.jpg"
+splash: "/media/grand-galop-cheval-1920x1080.jpg"
 ---
 
 ## A New Post sure ?
